@@ -1,0 +1,294 @@
+@font-face {
+font-family: "flaticon_mycollection";
+src: url("../fonts/flaticon_mycollection9fb7.ttf?a3ca453eb68fb96d6aa4c0b728a59ddc") format("truetype"),
+url("../fonts/flaticon_mycollection9fb7.woff?a3ca453eb68fb96d6aa4c0b728a59ddc") format("woff"),
+url("../fonts/flaticon_mycollection9fb7.woff2?a3ca453eb68fb96d6aa4c0b728a59ddc") format("woff2"),
+url("../fonts/flaticon_mycollection9fb7.eot?a3ca453eb68fb96d6aa4c0b728a59ddc#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_mycollection9fb7.svg?a3ca453eb68fb96d6aa4c0b728a59ddc#flaticon_mycollection") format("svg");
+}
+
+[class^="flaticon-"]:before, 
+[class*=" flaticon-"]:before {
+  font-family: flaticon_mycollection !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.mt-icon-box-xl [class^="flaticon-"]:before, .mt-icon-box-xl [class*=" flaticon-"]:before,
+.mt-icon-box-xl [class^="flaticon-"]:after, .mt-icon-box-xl [class*=" flaticon-"]:after{font-size:96px;}
+.mt-icon-box-lg [class^="flaticon-"]:before, .mt-icon-box-lg [class*=" flaticon-"]:before,
+.mt-icon-box-lg [class^="flaticon-"]:after, .mt-icon-box-lg [class*=" flaticon-"]:after{font-size:72px;}
+.mt-icon-box-md [class^="flaticon-"]:before, .mt-icon-box-md [class*=" flaticon-"]:before,
+.mt-icon-box-md [class^="flaticon-"]:after, .mt-icon-box-md [class*=" flaticon-"]:after{font-size:48px;}
+.mt-icon-box-sm [class^="flaticon-"]:before, .mt-icon-box-sm [class*=" flaticon-"]:before,
+.mt-icon-box-sm [class^="flaticon-"]:after, .mt-icon-box-sm [class*=" flaticon-"]:after{font-size:36px;}
+.mt-icon-box-xs [class^="flaticon-"]:before, .mt-icon-box-xs [class*=" flaticon-"]:before,
+.mt-icon-box-xs [class^="flaticon-"]:after, .mt-icon-box-xs [class*=" flaticon-"]:after{font-size:24px;}
+
+
+
+
+
+
+
+.flaticon-twitter:before {
+  content: "\f101";
+}
+.flaticon-facebook:before {
+  content: "\f102";
+}
+.flaticon-instagram:before {
+  content: "\f103";
+}
+.flaticon-linkedin:before {
+  content: "\f104";
+}
+.flaticon-youtube:before {
+  content: "\f105";
+}
+.flaticon-behance:before {
+  content: "\f106";
+}
+.flaticon-rss:before {
+  content: "\f107";
+}
+.flaticon-dribbble:before {
+  content: "\f108";
+}
+.flaticon-left-chevron:before {
+  content: "\f109";
+}
+.flaticon-chevron:before {
+  content: "\f10a";
+}
+.flaticon-long-arrow-pointing-to-the-right:before {
+  content: "\f10b";
+}
+.flaticon-long-arrow-pointing-to-left:before {
+  content: "\f10c";
+}
+.flaticon-play-button:before {
+  content: "\f10d";
+}
+.flaticon-play:before {
+  content: "\f10e";
+}
+.flaticon-security:before {
+  content: "\f10f";
+}
+.flaticon-employee:before {
+  content: "\f110";
+}
+.flaticon-smart-contracts:before {
+  content: "\f111";
+}
+.flaticon-computer-hardware:before {
+  content: "\f112";
+}
+.flaticon-mouse:before {
+  content: "\f113";
+}
+.flaticon-download:before {
+  content: "\f114";
+}
+.flaticon-cloud-computing:before {
+  content: "\f115";
+}
+.flaticon-chart:before {
+  content: "\f116";
+}
+.flaticon-data:before {
+  content: "\f117";
+}
+.flaticon-programmer:before {
+  content: "\f118";
+}
+.flaticon-survey:before {
+  content: "\f119";
+}
+.flaticon-positive-review:before {
+  content: "\f11a";
+}
+.flaticon-profit:before {
+  content: "\f11b";
+}
+.flaticon-engineer:before {
+  content: "\f11c";
+}
+.flaticon-parking:before {
+  content: "\f11d";
+}
+.flaticon-up-arrow:before {
+  content: "\f11e";
+}
+.flaticon-quote:before {
+  content: "\f11f";
+}
+.flaticon-back-left:before {
+  content: "\f120";
+}
+.flaticon-up-right-arrow:before {
+  content: "\f121";
+}
+.flaticon-telephone:before {
+  content: "\f122";
+}
+.flaticon-phone:before {
+  content: "\f123";
+}
+.flaticon-email:before {
+  content: "\f124";
+}
+.flaticon-maps-and-flags:before {
+  content: "\f125";
+}
+.flaticon-email-1:before {
+  content: "\f126";
+}
+.flaticon-incoming-call:before {
+  content: "\f127";
+}
+.flaticon-monitor:before {
+  content: "\f128";
+}
+.flaticon-mouse-1:before {
+  content: "\f129";
+}
+.flaticon-layers:before {
+  content: "\f12a";
+}
+.flaticon-web-design:before {
+  content: "\f12b";
+}
+.flaticon-check-mark:before {
+  content: "\f12c";
+}
+.flaticon-wordpress:before {
+  content: "\f12d";
+}
+.flaticon-wordpress-1:before {
+  content: "\f12e";
+}
+.flaticon-calendar:before {
+  content: "\f12f";
+}
+.flaticon-category:before {
+  content: "\f130";
+}
+.flaticon-leaf:before {
+  content: "\f131";
+}
+.flaticon-image:before {
+  content: "\f132";
+}
+.flaticon-search:before {
+  content: "\f133";
+}
+.flaticon-quotation-mark:before {
+  content: "\f134";
+}
+.flaticon-email-2:before {
+  content: "\f135";
+}
+.flaticon-map-location:before {
+  content: "\f136";
+}
+.flaticon-clock:before {
+  content: "\f137";
+}
+.flaticon-technical-support:before {
+  content: "\f138";
+}
+.flaticon-consultant:before {
+  content: "\f139";
+}
+.flaticon-touch:before {
+  content: "\f13a";
+}
+.flaticon-monitor-1:before {
+  content: "\f13b";
+}
+.flaticon-laptop:before {
+  content: "\f13c";
+}
+.flaticon-laptop-1:before {
+  content: "\f13d";
+}
+.flaticon-support:before {
+  content: "\f13e";
+}
+.flaticon-technology:before {
+  content: "\f13f";
+}
+.flaticon-responsive:before {
+  content: "\f140";
+}
+.flaticon-coding:before {
+  content: "\f141";
+}
+.flaticon-web-programming:before {
+  content: "\f142";
+}
+.flaticon-coding-1:before {
+  content: "\f143";
+}
+.flaticon-app-development:before {
+  content: "\f144";
+}
+.flaticon-growth:before {
+  content: "\f145";
+}
+.flaticon-software-development:before {
+  content: "\f146";
+}
+.flaticon-web-development:before {
+  content: "\f147";
+}
+.flaticon-promotion:before {
+  content: "\f148";
+}
+.flaticon-supply-chain:before {
+  content: "\f149";
+}
+.flaticon-development:before {
+  content: "\f14a";
+}
+.flaticon-skills:before {
+  content: "\f14b";
+}
+.flaticon-improve:before {
+  content: "\f14c";
+}
+.flaticon-js-file:before {
+  content: "\f14d";
+}
+.flaticon-files:before {
+  content: "\f14e";
+}
+.flaticon-css:before {
+  content: "\f14f";
+}
+.flaticon-python:before {
+  content: "\f150";
+}
+.flaticon-html-file:before {
+  content: "\f151";
+}
+.flaticon-physics:before {
+  content: "\f152";
+}
+.flaticon-web-plugin:before {
+  content: "\f153";
+}
+.flaticon-plugin:before {
+  content: "\f154";
+}
+.flaticon-web-plugin-1:before {
+  content: "\f155";
+}
